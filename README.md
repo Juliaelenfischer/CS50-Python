@@ -6,7 +6,8 @@ This repository contains a collection of solved exercises from the "CS50's Progr
 
 "CS50's Programming with Python" is an online course at Harvard University that teaches the basics of programming using Python. It covers topics such as variables, flow control, functions, data structures, and more, and is designed for students with or without prior programming experience.
 
-More information about "CS50's Programming with Python" and how to enroll in the course can be found on the [official course website]((https://cs50.harvard.edu/python/2022/)).
+More information about "CS50's Programming with Python" and how to enroll in the course can be found on the [official course website]:
+https://cs50.harvard.edu/python/2022/
 
 ## Repository Structure
 
